@@ -10,11 +10,11 @@ It is a faithful replica of ServeRLookR. Same functionality, with C++ boundaries
 
 ## My Goals
 
-[x] - Learn the differences between Rust and C++
-[x] - Use more STL
-[x] - ~~Forget basic C++ file manipulation~~
-[x] - *Suffer*
-[ ] - Impress papa and friends
+- [x] Learn the differences between Rust and C++
+- [x] Use more STL
+- [x] ~~Forget basic C++ file manipulation~~
+- [x] *Suffer*
+- [ ] Impress papa and friends
 
 ## Review
 
